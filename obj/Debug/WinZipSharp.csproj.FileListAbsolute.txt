@@ -1,0 +1,43 @@
+F:\Users\Cole\Documents\Visual Studio 2017\Projects\WinZipSharp\WinZipSharp\bin\Debug\WinZipSharp.exe.config
+F:\Users\Cole\Documents\Visual Studio 2017\Projects\WinZipSharp\WinZipSharp\bin\Debug\WinZipSharp.exe
+F:\Users\Cole\Documents\Visual Studio 2017\Projects\WinZipSharp\WinZipSharp\bin\Debug\WinZipSharp.pdb
+F:\Users\Cole\Documents\Visual Studio 2017\Projects\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.csprojResolveAssemblyReference.cache
+F:\Users\Cole\Documents\Visual Studio 2017\Projects\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.WinZipSharp.resources
+F:\Users\Cole\Documents\Visual Studio 2017\Projects\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.Properties.Resources.resources
+F:\Users\Cole\Documents\Visual Studio 2017\Projects\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.csproj.GenerateResource.Cache
+F:\Users\Cole\Documents\Visual Studio 2017\Projects\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.exe
+F:\Users\Cole\Documents\Visual Studio 2017\Projects\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.pdb
+F:\Users\Cole\Documents\Visual Studio 2017\Projects\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.about.resources
+D:\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\bin\Debug\WinZipSharp.exe.config
+D:\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\bin\Debug\WinZipSharp.exe
+D:\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\bin\Debug\WinZipSharp.pdb
+D:\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.WinZipSharp.resources
+D:\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.Properties.Resources.resources
+D:\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.csproj.GenerateResource.Cache
+D:\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.exe
+D:\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.pdb
+F:\Users\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\bin\Debug\WinZipSharp.exe.config
+F:\Users\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\bin\Debug\WinZipSharp.exe
+F:\Users\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\bin\Debug\WinZipSharp.pdb
+F:\Users\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.csprojResolveAssemblyReference.cache
+F:\Users\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.WinZipSharp.resources
+F:\Users\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.Properties.Resources.resources
+F:\Users\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.csproj.GenerateResource.Cache
+F:\Users\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.exe
+F:\Users\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.pdb
+F:\Users\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.backupConfirm.resources
+D:\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\bin\Debug\DotNetZip.dll
+D:\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\bin\Debug\DotNetZip.xml
+D:\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.backupConfirm.resources
+F:\Users\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\bin\Debug\DotNetZip.dll
+F:\Users\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\bin\Debug\DotNetZip.xml
+F:\Users\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.aboutZip.resources
+D:\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.aboutZip.resources
+D:\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.SplashScreen.resources
+F:\Users\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.SplashScreen.resources
+F:\Users\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.splashLogo.resources
+D:\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.splashLogo.resources
+D:\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.ProjectInstaller.resources
+D:\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.csproj.CoreCompileInputs.cache
+D:\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.ThresholdServiceMonitor.resources
+D:\Cole\Dropbox\Threshold\Projects\CSharp\WinZipSharp\WinZipSharp\obj\Debug\WinZipSharp.csprojResolveAssemblyReference.cache
